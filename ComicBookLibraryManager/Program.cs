@@ -1,8 +1,9 @@
-﻿using ComicBookShared.Data;
+﻿using System.Data.Entity;
 using ComicBookLibraryManager.Helpers;
 using ComicBookShared.Models;
 using System;
 using System.Collections.Generic;
+using ComicBookShared.Data;
 
 namespace ComicBookLibraryManager
 {
